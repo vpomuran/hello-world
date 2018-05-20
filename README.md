@@ -1,2 +1,2 @@
 # hello-world
-hello worlds
+Hello my first git project!
